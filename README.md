@@ -1,3 +1,4 @@
+```markdown
 # Task Management System
 
 A collaborative task management application built with vanilla JavaScript, demonstrating software engineering principles and team development practices.
@@ -20,7 +21,7 @@ A collaborative task management application built with vanilla JavaScript, demon
 ### Installation
 \`\`\`bash
 # Clone the repository
-git clone https://github.com/sindii77/task-management-system.git
+git clone https://github.com/sindi77/task-management-system.git
 cd task-management-system
 
 # Install dependencies
@@ -125,3 +126,4 @@ This project is licensed under the MIT License.
 ---
 
 **Happy Coding!** 🎉
+```
