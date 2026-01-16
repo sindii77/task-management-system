@@ -1,5 +1,4 @@
 /**
- * tes
  * Day 2 Main Application - MVC Implementation
  * 
  * Orchestrates semua komponen:
